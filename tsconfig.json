@@ -1,0 +1,11 @@
+{
+    "compilerOptions":{
+        "module":"NodeNext",
+        //  "moduleResolution":"node",
+        "baseUrl":"src",
+        "outDir":"public/js",
+        "sourceMap":true,
+        // "noImplicityAny":true
+    },
+    "include":["src/**/*"]
+}
